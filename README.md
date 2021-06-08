@@ -12,7 +12,8 @@
 print('고양이는 너무 귀여워요!!!!')
 ### Example
 -------
-![IMG_7020](https://user-images.githubusercontent.com/80030759/121130742-c9576000-c869-11eb-8353-56815460f9ba.png)
+![IMG_7020](https://user-images.githubusercontent.com/80030759/121131473-d58fed00-c86a-11eb-98d3-963543f6df7b.png)
+
 
 ### Reference
 ----------
